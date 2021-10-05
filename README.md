@@ -18,6 +18,11 @@ I'm a Data Engineer and worked in several companies in Brazil
 <img align="left" src="hadoop.png" style="padding: 1%"/></a>
 
 
+### Find me elsewhere 🌎
+
+[![Linkedin](https://img.shields.io/badge/-brenopitol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-pitol-silva-9a6ba3a0/)](https://www.linkedin.com/in/breno-pitol-silva-9a6ba3a0/)
+
+
 
 
 
