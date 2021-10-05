@@ -15,7 +15,7 @@ I'm a Data Engineer and worked in several companies in Brazil
 <img align="left" src="java.png" style="padding: 1%" /></a>
 <img align="left" src="hbase.png" style="padding: 1%" /></a>
 <img align="left" src="hive.png" style="padding: 1%" /></a>
-<img align="left" src="hadoop.png" style="padding: 1%" width="29px" /></a>
+<img align="left" src="hadoop.png" style="padding: 1%" width="200px" /></a>
 
 
 
