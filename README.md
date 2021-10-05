@@ -4,6 +4,11 @@ I'm a Data Engineer and worked in several companies in Brazil
 
 ### **🔭 Knowledges**
 
+<img align="left" src="elastic.png" style="padding: 1%" />
+<img align="left" src="aws.png" style="padding: 1%" /></a>
+<img align="left" src="linux.jpg" style="padding: 1%" /></a>
+<img align="left" src="ubuntu.png" style="padding: 1%" /></a>
+
 
 
 
