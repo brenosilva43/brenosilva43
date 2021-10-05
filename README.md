@@ -2,7 +2,7 @@
 
 I'm a Data Engineer and worked in several companies in Brazil
 
-### **🔭 Knowleges**
+### **🔭 Knowledges**
 
 
 
