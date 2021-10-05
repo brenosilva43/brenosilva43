@@ -8,6 +8,7 @@ I'm a Data Engineer and worked in several companies in Brazil
 <img align="left" src="aws.png" style="padding: 1%" /></a>
 <img align="left" src="linux.jpg" style="padding: 1%" /></a>
 <img align="left" src="ubuntu.png" style="padding: 1%" /></a>
+<img align="left" src="spark1.png" style="padding: 1%" /></a>
 
 
 
